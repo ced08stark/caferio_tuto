@@ -1,0 +1,17 @@
+{
+  "name": "caferio",
+  "version": "1.0.0",
+  "description": "caferio is a web for completed my formation tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "ced_stark08",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.4",
+    "vite": "^2.9.13"
+  }
+}

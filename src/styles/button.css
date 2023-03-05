@@ -1,0 +1,16 @@
+
+
+
+.btn{
+    @apply inline-block px-4 py-2 text-white capitalize transition-all duration-500 text-sm;
+}
+
+
+.btn-default{
+    @apply bg-orange-600 focus:ring-offset-2 ring-orange-400;
+}
+
+
+.btn-lg{
+    @apply py-3 px-5 text-base font-medium;
+} 
